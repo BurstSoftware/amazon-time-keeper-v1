@@ -1,4 +1,5 @@
-streamlit==1.42.0
-pandas==2.2.3
-python-dateutil==2.9.0.post0
-pytz==2025.1
+# requirements.txt for Amazon Weekly Hours Tracker
+# Optimized for Python 3.14 and Streamlit Community Cloud
+
+streamlit>=1.32.0
+pandas>=2.0.0
